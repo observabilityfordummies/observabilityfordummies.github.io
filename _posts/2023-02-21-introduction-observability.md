@@ -5,6 +5,7 @@ author: [Safia Habib]
 categories: [Getting Started]
 tags: [Getting Started]
 last_modified_at: 
+image: /assets/images/5.png
 ---
 ## Introduction
 In today's fast-paced and complex digital world, ensuring the stability and reliability of software systems has become more critical than ever. With the increasing number of interconnected systems, applications, and devices, the ability to understand and monitor their behavior has become a significant challenge. This is where the concept of observability comes in.
