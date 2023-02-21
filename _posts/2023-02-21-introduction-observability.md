@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Introduction to Observability - A clear explanation of what observability is, why it is important, and what it entails.
+title: Introduction to Observability 
 author: [Safia Habib]
 categories: [Getting Started]
 tags: [Getting Started]
 last_modified_at: 
 image: /assets/images/5.png
 ---
-## Introduction
+## Introduction - A clear explanation of what observability is, why it is important, and what it entails.
 In today's fast-paced and complex digital world, ensuring the stability and reliability of software systems has become more critical than ever. With the increasing number of interconnected systems, applications, and devices, the ability to understand and monitor their behavior has become a significant challenge. This is where the concept of observability comes in.
 Observability is a critical aspect of modern software engineering and operations, and is used to measure the state of a system, diagnose issues, and ensure system reliability. In this blog, we will provide a clear explanation of what observability is, why it is important, and what it entails.
 
