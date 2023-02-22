@@ -4,7 +4,7 @@ title: Tracing
 author: [Safia Habib]
 categories: [Getting Started]
 tags: [Getting Started]
-last_modified_at: 2022-08-31 13:24:11 +0800
+last_modified_at: 2023-02-19 13:24:11 +0800
 image: /assets/images/8.png
 ---
 ## Tracing - An explanation of the role of tracing in observability and how it helps to track the flow of requests through an application. ##
