@@ -4,7 +4,7 @@ title: Integrating Observability into the Development Process
 author: [Safia Habib]
 categories: [Getting Started]
 tags: [Getting Started]
-last_modified_at: 2022-08-31 13:24:11 +0800
+last_modified_at: 2023-02-17 13:24:11 +0800
 image: /assets/images/10.png
 ---
 
