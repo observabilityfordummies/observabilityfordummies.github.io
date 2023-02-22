@@ -4,7 +4,7 @@ title: Introduction to Observability
 author: [Safia Habib]
 categories: [Getting Started]
 tags: [Getting Started]
-last_modified_at: 
+last_modified_at: 2023-02-21 13:24:11 +0800
 image: /assets/images/5.png
 ---
 ## Introduction - A clear explanation of what observability is, why it is important, and what it entails.
