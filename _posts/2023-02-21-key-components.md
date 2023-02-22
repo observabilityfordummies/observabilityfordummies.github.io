@@ -4,7 +4,7 @@ title: Key Components of Observability
 author: [Safia Habib]
 categories: [Getting Started]
 tags: [Getting Started]
-last_modified_at: 
+last_modified_at: 2023-02-20 13:24:11 +0800
 image: /assets/images/6.png
 ---
 ## An overview of the three main components of observability: logging, tracing, and metric collection.
