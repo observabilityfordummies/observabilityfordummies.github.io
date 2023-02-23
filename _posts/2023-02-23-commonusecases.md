@@ -4,7 +4,6 @@ title: Common Use Cases for Observability
 author: [Safia Habib]
 categories: [Getting Started]
 tags: [Getting Started]
-last_modified_at: 2023-02-18 13:24:11 +0800
 image: /assets/images/11.png
 ---
 ## An overview of common use cases for observability, including troubleshooting, performance monitoring, and security.
@@ -25,4 +24,4 @@ Observability is also critical for maintaining the security of your applications
 
 **Conclusion**
 
-In conclusion, observability is a critical tool for organizations that rely on software to run their businesses. It provides real-time insights into complex systems' behavior, helping organizations quickly identify and resolve issues that can impact their applications' performance, security, and reliability. Whether you're looking to troubleshoot issues, monitor performance, or maintain the security of your applications, observability is a critical tool that can help you achieve your goals. Suppose you're looking to implement observability in your organization. In that case, there are many tools available that can help you get started, including open-source tools like Prometheus and Grafana, as well as commercial tools from vendors such as Datadog, Dynatrace and New Relic.
+Observability is a critical tool for organizations that rely on software to run their businesses. It provides real-time insights into complex systems' behavior, helping organizations quickly identify and resolve issues that can impact their applications' performance, security, and reliability. Whether you're looking to troubleshoot issues, monitor performance, or maintain the security of your applications, observability is a critical tool that can help you achieve your goals. Suppose you're looking to implement observability in your organization. In that case, there are many tools available that can help you get started, including open-source tools like Prometheus and Grafana, as well as commercial tools from vendors such as Datadog, Dynatrace and New Relic.
