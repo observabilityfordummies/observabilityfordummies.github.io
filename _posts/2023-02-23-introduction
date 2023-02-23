@@ -18,7 +18,7 @@ Observability is different from monitoring, which is the practice of collecting 
 
 Observability is a key aspect of DevOps and modern software development practices, and is an essential tool for ensuring system stability, reliability, and availability. It provides a unified view of the system's behavior, and enables organizations to detect and diagnose problems before they escalate into major issues.
 
-**The three pillars of Observability:**
+**The three pillars of Observability**
 
 1. Logging: Logging is a critical component of observability, and provides a record of the system's behavior. Logs are used to identify and diagnose problems, and to understand the system's behavior and performance.
 2. Tracing: Tracing is a technique used to track the flow of requests through a system, and to understand how the system is processing requests. Tracing provides a detailed view of the system's behavior, and is used to identify and diagnose performance issues.
