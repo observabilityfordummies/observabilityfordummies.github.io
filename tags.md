@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: page
 type: tags
 title: Tags
 permalink: /tags/
