@@ -1,4 +1,4 @@
-{% assign posts = site.posts %}
+{% assign posts = site.posts | sort: 'date' | reverse %}
 {% if paginator %}
   {% assign posts = paginator.posts %}
 {% endif %}
