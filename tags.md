@@ -1,6 +1,6 @@
 ---
-layout: archive
+layout: home
 type: tags
-title: Tags
-permalink: /tags/
+title: Getting Started
+permalink: /tags/#getting-started
 ---
