@@ -3,7 +3,7 @@
   {% assign posts = paginator.posts %}
 {% endif %}
 {% for post in posts %}
- {% if post.categories[0] == "Getting Started" %}
+ {% if post.categories contains "Getting Started" %}
   <article class="post-card">
     {% if post.image %}
       <a class="post-card-image-link" href="{{ post.url | relative_url }}">
