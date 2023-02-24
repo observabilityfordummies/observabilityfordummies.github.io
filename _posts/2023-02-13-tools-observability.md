@@ -4,7 +4,6 @@ title: Tools for Implementing Observability
 author: [Safia Habib]
 categories: [Getting Started]
 tags: [Getting Started]
-last_modified_at: 2023-02-18 13:24:11 +0800
 image: /assets/images/14.png
 ---
  ## An overview of the different tools that are available for implementing observability, including open-source and commercial solutions
