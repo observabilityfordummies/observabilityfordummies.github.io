@@ -1,8 +1,8 @@
 - title: Home
   url: /
-- title: About
-  url: /about/
-- title: Archive
-  url: /archive/
 - title: Getting Started
   url: ./getting_started.html
+- title: Adavanced
+  url: ./advanced.html/
+- title: About
+  url: /about/
