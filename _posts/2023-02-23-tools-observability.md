@@ -7,7 +7,7 @@ tags: [Getting Started]
 last_modified_at: 2023-02-18 13:24:11 +0800
 image: /assets/images/14.png
 ---
- ## An overview of the different tools that are available for implementing observability, including open-source and commercial solutions.
+ ## An overview of the different tools that are available for implementing observability, including open-source and commercial solutions
 
 Observability is an essential component of modern software systems, providing a way to monitor the health, performance, and behavior of applications in real-time. To achieve observability, organizations must use a range of tools and technologies that can collect, process, and analyze data from various parts of their applications. In this article, we will provide an overview of the different tools that are available for implementing observability, including open-source and commercial solutions.
 
